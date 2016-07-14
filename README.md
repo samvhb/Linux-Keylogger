@@ -9,6 +9,3 @@ This keylogger is meant only for educational purposes. I'm not responsible for a
 gcc keylogger.c -o keylogger
 ```
 Make sure to run this program as root.
-
-# More information
-You can find more information about this program in my blogpost at http://samvh.nl/security/writing-a-linux-keylogger-in-c/.
